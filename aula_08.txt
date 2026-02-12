@@ -1,0 +1,5 @@
+-- Comando mariadb-dump no terminal gera o backup
+mariadb-dump -u root -p cadastro > aula_08_dump.sql
+
+mariadb -u root -p -e "CREATE DATABASE meu_banco"
+mariadb -u root -p meu_banco < aula_08_dump.sql

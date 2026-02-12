@@ -1,0 +1,19 @@
+-- EXERCÍCIOS
+
+-- 1 - Faça uma lista com o nome de todas as alunas mulheres
+
+-- 2 - Faça uma lista com os dados de todos aqueles que nasceram entre 01 de Janeiro de 2000 e 31 de Dezembro de 2015
+
+-- 3 - Faça uma lista com o nome de todos os homens que trabalham como programadores
+
+-- 4 - Faça uma lista com todos os dados de todas as mulheres que nasceram no Brasil e que tem o seu nome iniciado com a letra J
+
+-- 5 - Faça uma lista com nome e nascionalidade de todos os homens que tem Silva no nome, não nasceram no Brasil e que tem menos de 100Kg
+
+-- 6 - Qual é a maior altura entre homens que moram no Brasil?
+
+-- 7 - Qual é a média de peso entre os alunos cadastrados?
+
+-- 8 - Qual é o menor peso entre alunas mulheres que nasceram fora do Brasil entre 01 de Janeiro de 1990 e 31 de Dezembro de 2000?
+
+-- 9 - Quantas alunas mulheres tem mais de 1.90m de altura?
