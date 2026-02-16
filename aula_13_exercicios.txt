@@ -1,4 +1,4 @@
--- 1 - Faça uma lists com as 
+-- 1 - Faça uma lista com as 
 profissões dos gafanhotos e seus 
 respectivos quantitativos
 
