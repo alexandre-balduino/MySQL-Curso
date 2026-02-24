@@ -5,4 +5,4 @@ Brasil e que tem menos de 100Kg
 
 SELECT nome, nacionalidade 
 FROM gafanhotos 
-WHERE sexo = 'M' AND nome LIKE  '%Silva%' AND peso < 100;
+WHERE sexo = 'M' AND nome LIKE  '%Silva%' AND nacionalidade != 'Brasil' AND peso < 100;

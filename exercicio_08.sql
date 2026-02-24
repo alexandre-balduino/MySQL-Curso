@@ -5,4 +5,4 @@ entre 01 de Janeiro de 1990 e
 
 SELECT MIN(peso)
 FROM gafanhotos
-WHERE sexo = 'F' AND nacionalidade != 'Brasil' AND nascimento BETWEEN '1990-01-02' AND '2000-12-31';
+WHERE sexo = 'F' AND nacionalidade != 'Brasil' AND nascimento BETWEEN '1990-01-01' AND '2000-12-31';
